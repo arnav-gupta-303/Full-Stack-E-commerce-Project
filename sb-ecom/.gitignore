@@ -4,6 +4,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# IntelliJ IDEA
+.idea/
+*.iml
+
 ### STS ###
 .apt_generated
 .classpath
